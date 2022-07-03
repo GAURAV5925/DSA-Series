@@ -7,7 +7,7 @@ class Vehicle {
   public: 
     string brand = "Ford";
     void honk() {
-      cout << "Tuut, tuut! \n" ;
+      cout << "Tutorial, tuut! \n" ;
     }
 };
 
