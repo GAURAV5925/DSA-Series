@@ -1,4 +1,4 @@
-// C++ program for function overloading
+// C++ program for function overload
 #include <bits/stdc++.h>
 
 using namespace std;
