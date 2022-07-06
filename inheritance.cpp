@@ -11,7 +11,7 @@ class Vehicle {
     }
 };
 
-// Derived class
+// Derived clas
 class Car: public Vehicle {
   public: 
     string model = "Mustang";
