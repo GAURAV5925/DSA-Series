@@ -6,7 +6,7 @@ class Geeks
 {
   public:
   
-  // function with 1 int parameters
+  // function with 1 int parameter
   void func(int x)
   {
     cout << "value of x is " << x << endl;
