@@ -12,7 +12,7 @@ class Geeks
     cout << "value of x is " << x << endl;
   }
   
-  // function with same name but 1 double parameter
+  // function with same name but 1 double paramete
   void func(double x)
   {
     cout << "value of x is " << x << endl;
